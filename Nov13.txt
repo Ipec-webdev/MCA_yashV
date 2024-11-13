@@ -1,0 +1,10 @@
+# github commands 
+
+git init 
+git remote add origin https://github.com/Ipec-webdev/MCA_yashV.git
+
+# one time only
+git config –-global user.name “Your Name”
+git config –-global user.email “youremail@example.com”
+
+git add .
